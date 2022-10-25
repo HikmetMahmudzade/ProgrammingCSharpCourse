@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\FirstLessonProgramming\FirstLessonProgramming\bin\Debug\net5.0\FirstLessonProgramming.exe
+C:\Users\Admin\source\repos\FirstLessonProgramming\FirstLessonProgramming\bin\Debug\net5.0\FirstLessonProgramming.deps.json
+C:\Users\Admin\source\repos\FirstLessonProgramming\FirstLessonProgramming\bin\Debug\net5.0\FirstLessonProgramming.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstLessonProgramming\FirstLessonProgramming\bin\Debug\net5.0\FirstLessonProgramming.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstLessonProgramming\FirstLessonProgramming\bin\Debug\net5.0\FirstLessonProgramming.dll
+C:\Users\Admin\source\repos\FirstLessonProgramming\FirstLessonProgramming\bin\Debug\net5.0\ref\FirstLessonProgramming.dll
+C:\Users\Admin\source\repos\FirstLessonProgramming\FirstLessonProgramming\bin\Debug\net5.0\FirstLessonProgramming.pdb
+C:\Users\Admin\source\repos\FirstLessonProgramming\FirstLessonProgramming\obj\Debug\net5.0\FirstLessonProgramming.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\FirstLessonProgramming\FirstLessonProgramming\obj\Debug\net5.0\FirstLessonProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\FirstLessonProgramming\FirstLessonProgramming\obj\Debug\net5.0\FirstLessonProgramming.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstLessonProgramming\FirstLessonProgramming\obj\Debug\net5.0\FirstLessonProgramming.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstLessonProgramming\FirstLessonProgramming\obj\Debug\net5.0\FirstLessonProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstLessonProgramming\FirstLessonProgramming\obj\Debug\net5.0\FirstLessonProgramming.dll
+C:\Users\Admin\source\repos\FirstLessonProgramming\FirstLessonProgramming\obj\Debug\net5.0\ref\FirstLessonProgramming.dll
+C:\Users\Admin\source\repos\FirstLessonProgramming\FirstLessonProgramming\obj\Debug\net5.0\FirstLessonProgramming.pdb
+C:\Users\Admin\source\repos\FirstLessonProgramming\FirstLessonProgramming\obj\Debug\net5.0\FirstLessonProgramming.genruntimeconfig.cache
